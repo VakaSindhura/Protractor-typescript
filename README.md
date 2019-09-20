@@ -1,8 +1,8 @@
 A start to automate using protractor.
 
 This project is setup with\
--> Typescript
--> Jasmine Framework (For reports) and
+-> Typescript\
+-> Jasmine Framework (For reports) and\
 -> Protractor (Angular Framework)
 
 NOTE: 
