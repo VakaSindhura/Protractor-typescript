@@ -1,6 +1,6 @@
 A start to automate using protractor.
 
-This project is setup with
+This project is setup with \n
 -> Typescript
 -> Jasmine Framework (For reports) and
 -> Protractor (Angular Framework)
