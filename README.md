@@ -6,4 +6,4 @@ This project is setup with\
 -> Protractor (Angular Framework)
 
 NOTE: 
-browser.waitForAngularEnabled() by default instructs webdriver to wait until Angular has finished rendering 
+>browser.waitForAngularEnabled() by default instructs webdriver to wait until Angular has finished rendering 
